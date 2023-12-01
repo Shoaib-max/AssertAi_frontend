@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+first go to parent directory of AssertAi_frontend :
+and run this command npm i;
+
+after this run this command :
+
 ### `npm start`
 
 Runs the app in the development mode.\
